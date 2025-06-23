@@ -83,3 +83,12 @@
 |5|Uniswap|[点击访问](https://app.uniswap.org/)|🌟🌟🌟🌟|
 |6|Aster|[点击访问](https://www.asterdex.com/)|🌟🌟🌟🌟|
 
+# Founder
+
+| 序号 | 头像 | 创始人 | 平台 | X 地址 |
+|-----|-----|-----|-----|-----|
+|1|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/czzhaochangpeng.png" width=30 align=center>|赵长鹏|币安|[点击访问](https://x.com/cz_binance)|
+|2|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/heyi.png" width=30 align=center>|何一|币安|[点击访问](https://x.com/heyibinance)|
+|3|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/sunyuchen.png" width=30 align=center>|孙宇晨|波场|[点击访问](https://x.com/sunyuchentron)|
+|4|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/V.png" width=30 align=center>|V神|以太坊|[点击访问](https://x.com/VitalikButerin)|
+|5|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/xumingxing.png" width=30 align=center>|徐明星|欧易OKX|[点击访问](https://x.com/star_okx)|
