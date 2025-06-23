@@ -27,3 +27,14 @@
 |4|Trust Wallet|[点击访问](https://trustwallet.com/)|🌟🌟🌟🌟|
 |5|TokenPocket|[点击访问](https://www.tokenpocket.pro/)|🌟🌟🌟🌟|
 |6|MetaMask|[点击访问](https://metamask.io/)|🌟🌟🌟🌟|
+
+# 硬件钱包
+
+| 序号 | 名称 | 官网地址 | 推荐值 |
+|-----|-----|-----|-----|
+|1|OneKey|[点击访问](https://onekey.so/zh_CN/)|🌟🌟🌟🌟🌟|
+|2|Ledger|[点击访问](https://www.ledger.com/zh-hans)|🌟🌟🌟🌟🌟|
+|3|SafePal|[点击访问](https://www.safepal.com/zh-cn/)|🌟🌟🌟🌟|
+|4|Trezor|[点击访问](https://trezor.io/)|🌟🌟🌟🌟|
+|5|imToken|[点击访问](https://token.im/)|🌟🌟🌟🌟|
+|6|Cobo|[点击访问](https://www.cobo.com/zh)|🌟🌟🌟🌟|
