@@ -15,7 +15,7 @@
 |3|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/Bybit.png" width=30 align=center>|Bybit|[点击访问](https://www.bybit.com/)|[点击访问](https://www.bybit.com/)|🌟🌟🌟🌟|
 |4|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/Bitgit.png" width=30 align=center>|Bitgit|[点击访问](https://www.bitget.com/zh-CN)|[点击访问](https://www.bitget.com/zh-CN)|🌟🌟🌟🌟|
 |5|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/Gate.png" width=30 align=center>|Gate|[点击访问](https://www.gate.com/zh)|[点击访问](https://www.gate.com/zh)|🌟🌟🌟|
-|6|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/huobi.png" width=30 align=center>|火币HT|[点击访问](https://www.htx.com/zh-cn/)|[点击访问](https://www.htx.com/zh-cn/)|🌟🌟🌟|
+|6|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/huobi.png" width=30 align=center>|火币HTX|[点击访问](https://www.htx.com/zh-cn/)|[点击访问](https://www.htx.com/zh-cn/)|🌟🌟🌟|
 
 # 软件钱包
 
