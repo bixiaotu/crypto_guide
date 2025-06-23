@@ -38,3 +38,25 @@
 |4|Trezor|[点击访问](https://trezor.io/)|🌟🌟🌟🌟|
 |5|imToken|[点击访问](https://token.im/)|🌟🌟🌟🌟|
 |6|Cobo|[点击访问](https://www.cobo.com/zh)|🌟🌟🌟🌟|
+
+# 消费U卡
+
+| 序号 | 名称 | 官网地址 | 推荐值 |
+|-----|-----|-----|-----|
+|1|Pokepay|[点击访问](https://pokepay.cc/)|🌟🌟🌟🌟🌟|
+|2|SafePal Bank|[点击访问](https://www.safepal.com/zh-cn/bank)|🌟🌟🌟🌟🌟|
+|3|RedotPay|[点击访问](https://www.redotpay.com/zh/)|🌟🌟🌟🌟|
+|4|Bybit Card|[点击访问](https://www.bybit.com/zh-MY/cards/)|🌟🌟🌟🌟|
+|5|BinPay|[点击访问](https://binpay.cc/cn/)|🌟🌟🌟🌟|
+|6|Dupay|[点击访问](https://www.dupay.one/)|🌟🌟🌟🌟|
+
+# 数据分析
+
+| 序号 | 名称 | 官网地址 | 推荐值 |
+|-----|-----|-----|-----|
+|1|TradingView|[点击访问](https://tradingview.com/)|🌟🌟🌟🌟🌟|
+|2|coingecko|[点击访问](https://www.coingecko.com/zh)|🌟🌟🌟🌟🌟|
+|3|CoinMarketCap|[点击访问](https://coinmarketcap.com/zh/)|🌟🌟🌟🌟|
+|4|CoinGlass|[点击访问](https://www.coinglass.com/zh)|🌟🌟🌟🌟|
+|5|DappRadar|[点击访问](https://dappradar.com/)|🌟🌟🌟🌟|
+|6|geckoterminal|[点击访问](https://www.geckoterminal.com/zh)|🌟🌟🌟🌟|
