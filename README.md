@@ -17,3 +17,13 @@
 |5|[Gate](https://www.gate.com/zh)|[点击访问](https://www.gate.com/zh)|[点击访问](https://www.gate.com/zh)|🌟🌟🌟|
 |6|[火币HTX](https://www.htx.com/zh-cn/)|[点击访问](https://www.htx.com/zh-cn/)|[点击访问](https://www.htx.com/zh-cn/)|🌟🌟🌟|
 
+# 软件钱包
+
+| 序号 | 名称 | 官网地址 | 推荐值 |
+|-----|-----|-----|-----|
+|1|OKX Wallet|[点击访问](https://web3.okx.com/zh-hans)|🌟🌟🌟🌟🌟|
+|2|imToken|[点击访问](https://token.im/)|🌟🌟🌟🌟🌟|
+|3|Coinbase|[点击访问](https://www.coinbase.com/zh-cn/wallet)|🌟🌟🌟🌟|
+|4|Trust Wallet|[点击访问](https://trustwallet.com/)|🌟🌟🌟🌟|
+|5|TokenPocket|[点击访问](https://www.tokenpocket.pro/)|🌟🌟🌟🌟|
+|6|MetaMask|[点击访问](https://metamask.io/)|🌟🌟🌟🌟|
