@@ -71,3 +71,15 @@
 |4|PANews|[点击访问](https://www.panewslab.com/zh)|🌟🌟🌟🌟|
 |5|coingecko|[点击访问](https://www.coingecko.com/zh/news)|🌟🌟🌟🌟|
 |6|Cryptonews|[点击访问](https://cryptonews.com/cn/)|🌟🌟🌟🌟|
+
+# DEX 去中心化交易所
+
+| 序号 | 名称 | 官网地址 | 推荐值 |
+|-----|-----|-----|-----|
+|1|PancakeSwap|[点击访问](https://pancakeswap.finance/)|🌟🌟🌟🌟🌟|
+|2|Hyperliquid|[点击访问](https://app.hyperliquid.xyz/trade)|🌟🌟🌟🌟🌟|
+|3|BaseSwap|[点击访问](https://baseswap.fi/)|🌟🌟🌟🌟|
+|4|PumpSwap|[点击访问](https://swap.pump.fun/)|🌟🌟🌟🌟|
+|5|Uniswap|[点击访问](https://app.uniswap.org/)|🌟🌟🌟🌟|
+|6|Aster|[点击访问](https://www.asterdex.com/)|🌟🌟🌟🌟|
+
