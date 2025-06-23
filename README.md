@@ -8,14 +8,12 @@
 
 # 中心化交易所
 
- 1. [币安]( https://www.binance.com/zh-CN) ｜ 宇宙第一大中心化交易所
+| 序号 | 名称 | 推荐值|
+|-----|-----|-----|
+|1|[币安]( https://www.binance.com/zh-CN)|🌟🌟🌟🌟🌟|
+|2|[欧易](https://www.okx.com/zh-hans)|🌟🌟🌟🌟🌟|
+|3|[Bybit](https://www.bybit.com/)|🌟🌟🌟🌟|
+|4|[Bitgit](https://www.bitget.com/zh-CN)|🌟🌟🌟🌟|
+|5|[Gate](https://www.gate.com/zh)|🌟🌟🌟|
+|6|[火币HTX](https://www.htx.com/zh-cn/)|🌟🌟🌟|
 
- 2. [欧易](https://www.okx.com/zh-hans) ｜ 中文用户更友好
-
- 3. [Bybit](https://www.bybit.com/) ｜ 合约用户居多
-
- 4. [Bitgit](https://www.bitget.com/zh-CN) ｜ 合约用户居多
-
- 5. [Gate](https://www.gate.com/zh) ｜ 这就是芝麻开门
-
- 6. [火币HTX](https://www.htx.com/zh-cn/) ｜ 孙宇晨的交易所
