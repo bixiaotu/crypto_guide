@@ -8,12 +8,12 @@
 
 # 中心化交易所
 
-| 序号 | 名称 | 推荐值|
-|-----|-----|-----|
-|1|[币安]( https://www.binance.com/zh-CN)|🌟🌟🌟🌟🌟|
-|2|[欧易](https://www.okx.com/zh-hans)|🌟🌟🌟🌟🌟|
-|3|[Bybit](https://www.bybit.com/)|🌟🌟🌟🌟|
-|4|[Bitgit](https://www.bitget.com/zh-CN)|🌟🌟🌟🌟|
-|5|[Gate](https://www.gate.com/zh)|🌟🌟🌟|
-|6|[火币HTX](https://www.htx.com/zh-cn/)|🌟🌟🌟|
+| 序号 | 名称 | 官网地址 | 备用地址 |推荐值|
+|-----|-----|-----|-----|-----|
+|1|[币安]( https://www.binance.com/zh-CN)|[点击访问](https://www.binance.com/register?ref=BXTCODE)|[点击访问](https://accounts.marketwebb.net/register?ref=BXTCODE)|🌟🌟🌟🌟🌟|
+|2|[欧易](https://okx.com/join/10404645)|[点击访问](https://okx.com/join/10404645)|[点击访问](https://ouyizh.today/join/10404645)|🌟🌟🌟🌟🌟|
+|3|[Bybit](https://www.bybit.com/)|[点击访问](https://www.bybit.com/)|[点击访问](https://www.bybit.com/)|🌟🌟🌟🌟|
+|4|[Bitgit](https://www.bitget.com/zh-CN)|[点击访问](https://www.bitget.com/zh-CN)|[点击访问](https://www.bitget.com/zh-CN)|🌟🌟🌟🌟|
+|5|[Gate](https://www.gate.com/zh)|[点击访问](https://www.gate.com/zh)|[点击访问](https://www.gate.com/zh)|🌟🌟🌟|
+|6|[火币HTX](https://www.htx.com/zh-cn/)|[点击访问](https://www.htx.com/zh-cn/)|[点击访问](https://www.htx.com/zh-cn/)|🌟🌟🌟|
 
