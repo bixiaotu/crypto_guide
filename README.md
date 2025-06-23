@@ -60,3 +60,14 @@
 |4|CoinGlass|[点击访问](https://www.coinglass.com/zh)|🌟🌟🌟🌟|
 |5|DappRadar|[点击访问](https://dappradar.com/)|🌟🌟🌟🌟|
 |6|geckoterminal|[点击访问](https://www.geckoterminal.com/zh)|🌟🌟🌟🌟|
+
+# 新闻媒体
+
+| 序号 | 名称 | 官网地址 | 推荐值 |
+|-----|-----|-----|-----|
+|1|TechFlow 深潮|[点击访问](https://www.techflowpost.com/)|🌟🌟🌟🌟🌟|
+|2|Cointelegraph|[点击访问](https://cn.cointelegraph.com/)|🌟🌟🌟🌟🌟|
+|3|链新闻|[点击访问](https://abmedia.io/)|🌟🌟🌟🌟|
+|4|PANews|[点击访问](https://www.panewslab.com/zh)|🌟🌟🌟🌟|
+|5|coingecko|[点击访问](https://www.coingecko.com/zh/news)|🌟🌟🌟🌟|
+|6|Cryptonews|[点击访问](https://cryptonews.com/cn/)|🌟🌟🌟🌟|
