@@ -21,23 +21,23 @@
 
 | 序号 | logo | 名称 | 官网地址 | 推荐值 |
 |-----|-----|-----|-----|-----|
-|1|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/OKX-Wallet.png" width=30 align=center>|币安|OKX Wallet|[点击访问](https://web3.okx.com/zh-hans)|🌟🌟🌟🌟🌟|
-|2|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/imToken.png" width=30 align=center>|币安|imToken|[点击访问](https://token.im/)|🌟🌟🌟🌟🌟|
-|3|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/coinbase.png" width=30 align=center>|币安|Coinbase|[点击访问](https://www.coinbase.com/zh-cn/wallet)|🌟🌟🌟🌟|
-|4|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/trustwallet.png" width=30 align=center>|币安|Trust Wallet|[点击访问](https://trustwallet.com/)|🌟🌟🌟🌟|
-|5|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/TokenPocket.png" width=30 align=center>|币安|TokenPocket|[点击访问](https://www.tokenpocket.pro/)|🌟🌟🌟🌟|
-|6|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/MetaMask.png" width=30 align=center>|币安|MetaMask|[点击访问](https://metamask.io/)|🌟🌟🌟🌟|
+|1|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/OKX-Wallet.png" width=30 align=center>|OKX Wallet|[点击访问](https://web3.okx.com/zh-hans)|🌟🌟🌟🌟🌟|
+|2|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/imToken.png" width=30 align=center>|imToken|[点击访问](https://token.im/)|🌟🌟🌟🌟🌟|
+|3|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/coinbase.png" width=30 align=center>|Coinbase|[点击访问](https://www.coinbase.com/zh-cn/wallet)|🌟🌟🌟🌟|
+|4|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/trustwallet.png" width=30 align=center>|Trust Wallet|[点击访问](https://trustwallet.com/)|🌟🌟🌟🌟|
+|5|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/TokenPocket.png" width=30 align=center>|TokenPocket|[点击访问](https://www.tokenpocket.pro/)|🌟🌟🌟🌟|
+|6|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/MetaMask.png" width=30 align=center>|MetaMask|[点击访问](https://metamask.io/)|🌟🌟🌟🌟|
 
 # 硬件钱包
 
 | 序号 | logo | 名称 | 官网地址 | 推荐值 |
 |-----|-----|-----|-----|-----|
-|1|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/OneKey.png" width=30 align=center>|币安|OneKey|[点击访问](https://onekey.so/zh_CN/)|🌟🌟🌟🌟🌟|
-|2|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/Ledger.png" width=30 align=center>|币安|Ledger|[点击访问](https://www.ledger.com/zh-hans)|🌟🌟🌟🌟🌟|
-|3|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/SafePal.png" width=30 align=center>|币安|SafePal|[点击访问](https://www.safepal.com/zh-cn/)|🌟🌟🌟🌟|
-|4|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/Trezor.png" width=30 align=center>|币安|Trezor|[点击访问](https://trezor.io/)|🌟🌟🌟🌟|
-|5|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/imToken.png" width=30 align=center>|币安|imToken|[点击访问](https://token.im/)|🌟🌟🌟🌟|
-|6|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/cobo.png" width=30 align=center>|币安|Cobo|[点击访问](https://www.cobo.com/zh)|🌟🌟🌟🌟|
+|1|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/OneKey.png" width=30 align=center>|OneKey|[点击访问](https://onekey.so/zh_CN/)|🌟🌟🌟🌟🌟|
+|2|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/Ledger.png" width=30 align=center>|Ledger|[点击访问](https://www.ledger.com/zh-hans)|🌟🌟🌟🌟🌟|
+|3|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/SafePal.png" width=30 align=center>|SafePal|[点击访问](https://www.safepal.com/zh-cn/)|🌟🌟🌟🌟|
+|4|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/Trezor.png" width=30 align=center>|Trezor|[点击访问](https://trezor.io/)|🌟🌟🌟🌟|
+|5|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/imToken.png" width=30 align=center>|imToken|[点击访问](https://token.im/)|🌟🌟🌟🌟|
+|6|<img src="https://bixiaotu.com/wp-content/uploads/2025/06/cobo.png" width=30 align=center>|Cobo|[点击访问](https://www.cobo.com/zh)|🌟🌟🌟🌟|
 
 # 消费U卡
 
